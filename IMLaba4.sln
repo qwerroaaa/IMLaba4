@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IMLaba4", "IMLaba4\IMLaba4.csproj", "{79D158AE-2627-4017-9A01-AE9FBE1CFA24}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79D158AE-2627-4017-9A01-AE9FBE1CFA24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79D158AE-2627-4017-9A01-AE9FBE1CFA24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79D158AE-2627-4017-9A01-AE9FBE1CFA24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79D158AE-2627-4017-9A01-AE9FBE1CFA24}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66228AC4-9C04-4EDB-BCDD-48788B93CC1F}
+	EndGlobalSection
+EndGlobal
